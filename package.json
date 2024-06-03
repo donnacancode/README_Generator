@@ -1,0 +1,23 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "A simple README generator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donnacancode/README_Generator.git"
+  },
+  "author": "donnacancode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donnacancode/README_Generator/issues"
+  },
+  "homepage": "https://github.com/donnacancode/README_Generator#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "inquirer": "^8.2.6"
+  }
+}
