@@ -79,9 +79,8 @@ ${data.contribute}
 ${data.tests}
 
 ## Questions?
-${data.email}
-Feel free to reach out with any questions!  Thank you for supporting my project.
-github.com/${data.github}
+- Email: [${data.email}](mailto:${data.email})
+- GitHub: [${data.github}](https://www.github.com/${data.github})
   `;
 }
 
